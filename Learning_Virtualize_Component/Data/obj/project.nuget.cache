@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "reblF2bsagFnhBmo3ZnfBeGa0d0GT/5vFvLmEaHHbd+3ptIKT+sqo+1HSNJ5P9yggv3lUtqbe2QRzngi+/EiBQ==",
+  "dgSpecHash": "WRc+1ve5uoumRLYL6QjUIMDrFnBQWpgJxTQ79Jm425qMfNVKspx5FI6ao6KEIGZgEN/fJS1qQKRzeb77aoFnyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_Component\\Data\\Data.csproj",
+  "projectFilePath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arash\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\Arash\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

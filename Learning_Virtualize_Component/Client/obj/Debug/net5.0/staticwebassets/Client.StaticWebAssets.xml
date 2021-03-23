@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_component\client\bin\Debug\net5.0\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_component\client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\obj\Debug\net5.0\scopedcss\bundle\" />
 </StaticWebAssets>

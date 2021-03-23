@@ -4191,11 +4191,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\ViewModels\\ViewModels.csproj",
+      "projectUniqueName": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\ViewModels\\ViewModels.csproj",
       "projectName": "ViewModels",
-      "projectPath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\ViewModels\\ViewModels.csproj",
+      "projectPath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\ViewModels\\ViewModels.csproj",
       "packagesPath": "C:\\Users\\Arash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\ViewModels\\obj\\",
+      "outputPath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\ViewModels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Arash\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4212,11 +4212,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\Dtx\\Dtx.csproj": {
-              "projectPath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\Dtx\\Dtx.csproj"
+            "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\Dtx\\Dtx.csproj": {
+              "projectPath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\Dtx\\Dtx.csproj"
             },
-            "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\Resources\\Resources.csproj": {
-              "projectPath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\Resources\\Resources.csproj"
+            "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\Resources\\Resources.csproj": {
+              "projectPath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\Resources\\Resources.csproj"
             }
           }
         }

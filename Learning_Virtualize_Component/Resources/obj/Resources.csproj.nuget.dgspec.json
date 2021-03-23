@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\Resources\\Resources.csproj": {}
+    "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\Resources\\Resources.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\Resources\\Resources.csproj": {
+    "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\Resources\\Resources.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\Resources\\Resources.csproj",
+        "projectUniqueName": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\Resources\\Resources.csproj",
         "projectName": "Resources",
-        "projectPath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\Resources\\Resources.csproj",
+        "projectPath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\Resources\\Resources.csproj",
         "packagesPath": "C:\\Users\\Arash\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\Resources\\obj\\",
+        "outputPath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\Resources\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arash\\AppData\\Roaming\\NuGet\\NuGet.Config",

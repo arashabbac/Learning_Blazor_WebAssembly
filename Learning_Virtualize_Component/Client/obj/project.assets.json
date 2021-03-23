@@ -6382,11 +6382,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\client\\Client.csproj",
+      "projectUniqueName": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\client\\Client.csproj",
+      "projectPath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\client\\Client.csproj",
       "packagesPath": "C:\\Users\\Arash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\client\\obj\\",
+      "outputPath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Arash\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6403,8 +6403,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\ViewModels\\ViewModels.csproj": {
-              "projectPath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\ViewModels\\ViewModels.csproj"
+            "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\ViewModels\\ViewModels.csproj": {
+              "projectPath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\ViewModels\\ViewModels.csproj"
             }
           }
         }

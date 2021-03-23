@@ -13,71 +13,71 @@ namespace Client.Pages
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_component\client\_Imports.razor"
+#line 1 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_component\client\_Imports.razor"
+#line 2 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_component\client\_Imports.razor"
+#line 3 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_component\client\_Imports.razor"
+#line 4 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_component\client\_Imports.razor"
+#line 5 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_component\client\_Imports.razor"
-using Microsoft.AspNetCore.Components.Web.Virtualization;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 7 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_component\client\_Imports.razor"
+#line 6 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\_Imports.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_component\client\_Imports.razor"
+#line 7 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_component\client\_Imports.razor"
+#line 8 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\_Imports.razor"
 using Client;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_component\client\_Imports.razor"
+#line 9 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\_Imports.razor"
 using Client.Shared;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 2 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\Pages\ListOfUsers.razor"
+using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
@@ -91,7 +91,7 @@ using Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 38 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_component\client\Pages\ListOfUsers.razor"
+#line 39 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\Pages\ListOfUsers.razor"
       
     public List<ViewModels.User.UserViewModel> Users { get; set; }
 
@@ -125,14 +125,16 @@ using Client.Shared;
     private async ValueTask<ItemsProviderResult<ViewModels.User.UserViewModel>> 
         LoadVisibleUsers(ItemsProviderRequest itemsProviderRequest)
     {
-        Task.Delay(500);
+        int totalUser = 20000;
+
+        await Task.Delay(5000);
 
         var result = 
             await userService.
             GetVisibleAsync(itemsProviderRequest.StartIndex , itemsProviderRequest.Count);
         
         
-        return new ItemsProviderResult<ViewModels.User.UserViewModel>(result,20000);
+        return new ItemsProviderResult<ViewModels.User.UserViewModel>(result,totalUser);
     }  
 
 #line default

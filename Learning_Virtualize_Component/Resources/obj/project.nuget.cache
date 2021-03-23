@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GCVooXRna/01sXrxy6mS9Qh+AnKDFbYIRpwyYJRwqBs6ra8fzhdBqgsBcMGP+WT+1xe69U8K1ZUdAf/seze3gw==",
+  "dgSpecHash": "cWwBj/wbjTD5RYVpDwWMoGpM5I07cdj8nG4/GLA+Jb84J78voiXX/uEIQYGB5aZ2qiXwS8mAMyIGq4sqqGCjYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\Resources\\Resources.csproj",
+  "projectFilePath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\Resources\\Resources.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arash\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Arash\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

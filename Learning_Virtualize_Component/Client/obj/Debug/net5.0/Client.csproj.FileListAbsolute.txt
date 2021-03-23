@@ -715,8 +715,8 @@ C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssem
 C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_Component\Client\obj\Debug\net5.0\Client.dll
 C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_Component\Client\obj\Debug\net5.0\ref\Client.dll
 C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_Component\Client\obj\Debug\net5.0\Client.pdb
-C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_component\client\obj\Debug\net5.0\build-gz\ubBwrjgK.gz
-C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_component\client\obj\Debug\net5.0\build-gz\3yfueW4Z.gz
-C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_component\client\obj\Debug\net5.0\build-gz\aDczJysg.gz
-C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_component\client\obj\Debug\net5.0\build-gz\uIsRKL3F.gz
-C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_component\client\obj\Debug\net5.0\build-gz\oUfIDr5j.gz
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\obj\Debug\net5.0\build-gz\jZF9gsjG.gz
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\obj\Debug\net5.0\build-gz\44DtoKA3.gz
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\obj\Debug\net5.0\build-gz\Zhe9SQ5K.gz
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\obj\Debug\net5.0\build-gz\fkhvBjBv.gz
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\obj\Debug\net5.0\build-gz\VW9J8Aso.gz

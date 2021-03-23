@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zYoGNdW7v4n9zzg6aIo1A+4WSU7Cbkij+Rj0ve5j/4fZ471FIQ0G5TQIJhXvM+AiieT8NnHR9bl8JYYj9+2VBw==",
+  "dgSpecHash": "oh5wW5uTdQGYR7J3MUV19zQ8imw6sHRHgbViKe0xFNAJYR26Ibi8JcE+Jj+mNOkI8BAQoBF88htQv5HPEVktsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\ViewModels\\ViewModels.csproj",
+  "projectFilePath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\ViewModels\\ViewModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arash\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Arash\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yxXSw7vjaAdjDwek36/J7PI72eqd+lBsa7LsPWt1PG3EmDsZggtBb1IUqraXuVF+BM4SszNIy3aLiXD5/WXz5Q==",
+  "dgSpecHash": "mjecuc7I+FvUciHSrVSXgZtDuYIWbGT1Iao0DPNfNUwqfoXFXKjIOBCUFKEaXcEcd0fBP1k6Fl1h7BSDU09bbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_Component\\Server\\Server.csproj",
+  "projectFilePath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\learning_virtualize_component\\server\\Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arash\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\Arash\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
