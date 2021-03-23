@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zIrLohnFrUwVbP3PlvBWKviCa3YA3sFE+Namrp1k1NrY/85Jt9NrfVjwNbWs72rgyK0dxJD9lTpUxfMTCagVqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_component\\Dtx\\Dtx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arash\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Arash\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

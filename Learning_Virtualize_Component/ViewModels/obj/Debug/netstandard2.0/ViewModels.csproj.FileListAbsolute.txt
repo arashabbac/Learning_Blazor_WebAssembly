@@ -1,0 +1,15 @@
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_Component\ViewModels\bin\Debug\netstandard2.0\ViewModels.deps.json
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_Component\ViewModels\bin\Debug\netstandard2.0\ViewModels.dll
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_Component\ViewModels\bin\Debug\netstandard2.0\ViewModels.pdb
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_Component\ViewModels\bin\Debug\netstandard2.0\Dtx.dll
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_Component\ViewModels\bin\Debug\netstandard2.0\Resources.dll
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_Component\ViewModels\bin\Debug\netstandard2.0\Dtx.pdb
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_Component\ViewModels\bin\Debug\netstandard2.0\Resources.pdb
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_Component\ViewModels\bin\Debug\netstandard2.0\fa-IR\Resources.resources.dll
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_Component\ViewModels\obj\Debug\netstandard2.0\ViewModels.csprojAssemblyReference.cache
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_Component\ViewModels\obj\Debug\netstandard2.0\ViewModels.AssemblyInfoInputs.cache
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_Component\ViewModels\obj\Debug\netstandard2.0\ViewModels.AssemblyInfo.cs
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_Component\ViewModels\obj\Debug\netstandard2.0\ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_Component\ViewModels\obj\Debug\netstandard2.0\ViewModels.csproj.CopyComplete
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_Component\ViewModels\obj\Debug\netstandard2.0\ViewModels.dll
+C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\Learning_Virtualize_Component\ViewModels\obj\Debug\netstandard2.0\ViewModels.pdb

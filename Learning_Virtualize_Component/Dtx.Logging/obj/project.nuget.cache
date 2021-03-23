@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ok7hotFOlFWR+MLpmCoyVm3DUkSNtXiuVXBJmBDg0UcEcV0ZERY8sdKj+f76K7fZMnmqD0FrpKj0hV27eALYgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arash\\source\\repos\\Learning_Blazor_WebAssembly\\Learning_Blazor_WebAssembly\\Learning_Virtualize_Component\\Dtx.Logging\\Dtx.Logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arash\\.nuget\\packages\\nlog\\4.7.7\\nlog.4.7.7.nupkg.sha512"
+  ],
+  "logs": []
+}

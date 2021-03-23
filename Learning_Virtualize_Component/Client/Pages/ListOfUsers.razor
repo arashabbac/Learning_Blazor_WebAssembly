@@ -1,0 +1,80 @@
+@page "/listOfUsers"
+@inject Services.UserService userService
+
+@* @foreach (var user in Users)
+{
+    <a href="" class="list-group-item flex-column align-items-start bold-text">
+        @user.Username @user.FullName
+    </a>    
+} *@
+
+@* <Virtualize Items="Users" Context="user">
+    <a href="" class="list-group-item flex-column align-items-start bold-text">
+        @user.Username @user.FullName
+    </a>  
+</Virtualize> *@
+
+@* <Virtualize ItemsProvider="LoadVisibleUsers" Context="user">
+    <a href="" class="list-group-item flex-column align-items-start bold-text">
+        @user.Username @user.FullName
+    </a>  
+</Virtualize> *@
+
+<Virtualize ItemsProvider="LoadVisibleUsers" Context="user">
+    <ItemContent>
+        <div style="height: 50px;margin: 10px">
+            <a href="" class="list-group-item flex-column align-items-start bold-text">
+                @user.Username @user.FullName
+            </a>
+        </div>
+    </ItemContent>
+    <Placeholder>
+        <div style="height: 50px;margin: 10px">
+            <div class="spinner-border spinner-dark"></div>
+        </div>
+    </Placeholder>
+</Virtualize>
+
+@code{
+    public List<ViewModels.User.UserViewModel> Users { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Users = new List<ViewModels.User.UserViewModel>();
+
+        //Users = await userService.GetAllAsync();
+    }  
+
+    /*private async ValueTask<ItemsProviderResult<ViewModels.User.UserViewModel>> 
+        LoadVisibleUsers(ItemsProviderRequest itemsProviderRequest)
+    {
+        Console.WriteLine($"start: {itemsProviderRequest.StartIndex}");
+        Console.WriteLine( $"count: {itemsProviderRequest.Count}");
+
+        return new ItemsProviderResult<ViewModels.User.UserViewModel>(new List<ViewModels.User.UserViewModel>(),20000);
+    }*/
+
+    /*private async ValueTask<ItemsProviderResult<ViewModels.User.UserViewModel>> 
+        LoadVisibleUsers(ItemsProviderRequest itemsProviderRequest)
+    {
+        var result = 
+            await userService.
+            GetVisibleAsync(itemsProviderRequest.StartIndex , itemsProviderRequest.Count);
+        
+        
+        return new ItemsProviderResult<ViewModels.User.UserViewModel>(result,20000);
+    }*/
+
+    private async ValueTask<ItemsProviderResult<ViewModels.User.UserViewModel>> 
+        LoadVisibleUsers(ItemsProviderRequest itemsProviderRequest)
+    {
+        Task.Delay(500);
+
+        var result = 
+            await userService.
+            GetVisibleAsync(itemsProviderRequest.StartIndex , itemsProviderRequest.Count);
+        
+        
+        return new ItemsProviderResult<ViewModels.User.UserViewModel>(result,20000);
+    }  
+}
