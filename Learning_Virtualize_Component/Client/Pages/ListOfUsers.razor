@@ -2,12 +2,13 @@
 @using Microsoft.AspNetCore.Components.Web.Virtualization
 @inject Services.UserService userService
 
-@foreach (var user in Users)
+@* @foreach (var user in Users)
 {
     <a href="" class="list-group-item flex-column align-items-start bold-text">
         @user.Username @user.FullName
     </a>    
-}
+} *@
+
 
 @* <Virtualize Items="Users" Context="user">
     <a href="" class="list-group-item flex-column align-items-start bold-text">
@@ -21,7 +22,7 @@
     </a>  
 </Virtualize> *@
    
-@* <Virtualize ItemsProvider="LoadVisibleUsers" Context="user">
+<Virtualize ItemsProvider="LoadVisibleUsers" Context="user">
     <ItemContent>
         <div style="height: 50px;margin: 10px">
             <a href="" class="list-group-item flex-column align-items-start bold-text">
@@ -34,7 +35,7 @@
             <div class="spinner-border spinner-dark"></div>
         </div>
     </Placeholder>
-</Virtualize> *@
+</Virtualize>
 
 @code{
     public List<ViewModels.User.UserViewModel> Users { get; set; }
@@ -43,7 +44,7 @@
     {
         Users = new List<ViewModels.User.UserViewModel>();
 
-        Users = await userService.GetAllAsync();
+        //Users = await userService.GetAllAsync();
     }  
 
     /*private async ValueTask<ItemsProviderResult<ViewModels.User.UserViewModel>> 
@@ -66,7 +67,7 @@
         return new ItemsProviderResult<ViewModels.User.UserViewModel>(result,20000);
     }*/
 
-    /*private async ValueTask<ItemsProviderResult<ViewModels.User.UserViewModel>> 
+    private async ValueTask<ItemsProviderResult<ViewModels.User.UserViewModel>> 
         LoadVisibleUsers(ItemsProviderRequest itemsProviderRequest)
     {
         int totalUser = 20000;
@@ -79,5 +80,5 @@
         
         
         return new ItemsProviderResult<ViewModels.User.UserViewModel>(result,totalUser);
-    }  */
+    }
 }

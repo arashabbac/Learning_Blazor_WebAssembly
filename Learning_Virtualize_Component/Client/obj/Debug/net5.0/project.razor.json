@@ -8,6 +8,171 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 1844431673,
+        "Kind": "Components.Component",
+        "Name": "Client.App",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.App"
+        }
+      },
+      {
+        "HashCode": -612343486,
+        "Kind": "Components.Component",
+        "Name": "Client.App",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 215169641,
+        "Kind": "Components.Component",
+        "Name": "Client.Pages.Counter",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -579707826,
+        "Kind": "Components.Component",
+        "Name": "Client.Pages.Counter",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1868525484,
+        "Kind": "Components.Component",
+        "Name": "Client.Pages.FetchData",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -2015371515,
+        "Kind": "Components.Component",
+        "Name": "Client.Pages.FetchData",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 565939496,
+        "Kind": "Components.Component",
+        "Name": "Client.Pages.Index",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 1708663417,
+        "Kind": "Components.Component",
+        "Name": "Client.Pages.Index",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1025509301,
+        "Kind": "Components.Component",
+        "Name": "Client.Pages.ListOfUsers",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ListOfUsers"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Pages.ListOfUsers"
+        }
+      },
+      {
+        "HashCode": 1864088160,
+        "Kind": "Components.Component",
+        "Name": "Client.Pages.ListOfUsers",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Pages.ListOfUsers"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Pages.ListOfUsers",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1224211224,
         "Kind": "Components.Component",
         "Name": "Client.Shared.SurveyPrompt",
@@ -57,39 +222,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Client.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1860289387,
-        "Kind": "Components.Component",
-        "Name": "Client.Shared.NavMenu",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -525305763,
-        "Kind": "Components.Component",
-        "Name": "Client.Shared.NavMenu",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -190,167 +322,35 @@
         }
       },
       {
-        "HashCode": 565939496,
+        "HashCode": -1860289387,
         "Kind": "Components.Component",
-        "Name": "Client.Pages.Index",
+        "Name": "Client.Shared.NavMenu",
         "AssemblyName": "Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.Index"
+          "Common.TypeName": "Client.Shared.NavMenu"
         }
       },
       {
-        "HashCode": 1708663417,
+        "HashCode": -525305763,
         "Kind": "Components.Component",
-        "Name": "Client.Pages.Index",
+        "Name": "Client.Shared.NavMenu",
         "AssemblyName": "Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Client.Pages.Index"
+            "TagName": "Client.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1868525484,
-        "Kind": "Components.Component",
-        "Name": "Client.Pages.FetchData",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -2015371515,
-        "Kind": "Components.Component",
-        "Name": "Client.Pages.FetchData",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 215169641,
-        "Kind": "Components.Component",
-        "Name": "Client.Pages.Counter",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -579707826,
-        "Kind": "Components.Component",
-        "Name": "Client.Pages.Counter",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1025509301,
-        "Kind": "Components.Component",
-        "Name": "Client.Pages.ListOfUsers",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ListOfUsers"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.ListOfUsers"
-        }
-      },
-      {
-        "HashCode": 1864088160,
-        "Kind": "Components.Component",
-        "Name": "Client.Pages.ListOfUsers",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Pages.ListOfUsers"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Pages.ListOfUsers",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1844431673,
-        "Kind": "Components.Component",
-        "Name": "Client.App",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.App"
-        }
-      },
-      {
-        "HashCode": -612343486,
-        "Kind": "Components.Component",
-        "Name": "Client.App",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.App",
+          "Common.TypeName": "Client.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

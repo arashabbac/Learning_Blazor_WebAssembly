@@ -34,7 +34,7 @@ namespace Server
                     {
                         builder
                             //.WithOrigins("http://31.47.54.247:5000")
-                            .WithOrigins("https://localhost:4001")
+                            .WithOrigins("https://localhost:3001")
                             .AllowAnyOrigin()
                             .AllowAnyMethod()
                             .AllowAnyHeader();

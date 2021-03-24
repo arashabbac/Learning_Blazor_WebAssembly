@@ -91,7 +91,7 @@ using Microsoft.AspNetCore.Components.Web.Virtualization;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 39 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\Pages\ListOfUsers.razor"
+#line 40 "C:\Users\Arash\source\repos\Learning_Blazor_WebAssembly\Learning_Blazor_WebAssembly\learning_virtualize_component\client\Pages\ListOfUsers.razor"
       
     public List<ViewModels.User.UserViewModel> Users { get; set; }
 
@@ -127,7 +127,7 @@ using Microsoft.AspNetCore.Components.Web.Virtualization;
     {
         int totalUser = 20000;
 
-        await Task.Delay(5000);
+        await Task.Delay(500);
 
         var result = 
             await userService.
@@ -135,7 +135,7 @@ using Microsoft.AspNetCore.Components.Web.Virtualization;
         
         
         return new ItemsProviderResult<ViewModels.User.UserViewModel>(result,totalUser);
-    }  
+    }
 
 #line default
 #line hidden
