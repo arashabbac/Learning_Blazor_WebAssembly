@@ -99,13 +99,13 @@ using Microsoft.AspNetCore.Components.Web.Virtualization;
     {
         Users = new List<ViewModels.User.UserViewModel>();
 
-        //Users = await userService.GetAllAsync();
+       //Users = await userService.GetAllAsync();
     }  
 
     /*private async ValueTask<ItemsProviderResult<ViewModels.User.UserViewModel>> 
         LoadVisibleUsers(ItemsProviderRequest itemsProviderRequest)
     {
-        Console.WriteLine($"start: {itemsProviderRequest.StartIndex}");
+        Console.WriteLine($"startIndex: {itemsProviderRequest.StartIndex}");
         Console.WriteLine( $"count: {itemsProviderRequest.Count}");
 
         return new ItemsProviderResult<ViewModels.User.UserViewModel>(new List<ViewModels.User.UserViewModel>(),20000);
